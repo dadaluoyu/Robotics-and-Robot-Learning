@@ -1,0 +1,7 @@
+# Used when resetting robot
+bool reset_robot
+float64 reset_pole_angle
+# Used when taking an action
+float64[] action
+---
+float64[] robot_state

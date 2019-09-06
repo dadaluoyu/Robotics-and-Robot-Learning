@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="cartpole_robot" pkg="robot_sim" type="cartpole_robot.py" output="screen" />
+
+</launch>
+

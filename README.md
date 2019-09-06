@@ -1,7 +1,7 @@
 # Robotics-and-Robot-Learning
 The course projects for robotics and robot learning in python and ROS.
 
-## The project list:<br>
+## The projects list:<br>
 
 ### Robotics:<br>
 
